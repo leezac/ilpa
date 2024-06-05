@@ -1,0 +1,188 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.hidden {
+  font-size: 0;
+  line-height: 0;
+  visibility: hidden;
+}
+
+#wrap {
+  width: 100%;
+}
+
+header {
+  text-align: center;
+}
+
+.img_box {
+  width: 120px;
+  margin: 20px auto;
+}
+
+header img {
+  display: block;
+  width: 100%;
+}
+
+header > ul {
+  width: 308px;
+  margin: 0 auto;
+  font: bold 1.2em/1 'Noto Sans KR';
+  margin: 0 auto;
+}
+
+header > ul > li {
+  width: 15px;
+  padding: 2px;
+}
+
+header > ul > li:nth-child(1) {
+  float: left;
+}
+
+header > ul > li:nth-child(2) {
+  float: right;
+}
+
+h1 {
+  font: bold 3em/1.5 'Noto Sans KR';
+}
+
+section {
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  margin-top: 3px;
+}
+
+article {
+  width: 50%;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+#designer {
+  text-align: right;
+  float: left;
+}
+
+#trainee {
+  text-align: left;
+  float: right;
+}
+
+.list {
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.list > li {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  margin: 2px;
+  border-radius: 15px;
+  overflow: hidden;
+  border: 2px solid #ddd;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.portfolio {
+  width: 100%;
+  height: 100%;
+  font: 0.8rem/1.8 'Noto Sans KR';
+  border-radius: 13px;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.6);
+  transition: all 0.5s ease-in-out;
+  top: 100%;
+}
+
+.list li:hover .portfolio {
+  top: 0;
+}
+
+.list li {
+  overflow: hidden;
+}
+
+.list li img {
+  display: block;
+  width: 100%;
+}
+
+.portfolio div {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.portfolio a {
+  color: #aaa;
+  display: block;
+  text-align: center;
+}
+
+.portfolio a:hover {
+  color: #fff;
+}
+
+.name {
+  font: bold 1.2rem/1.5 'Noto Sans KR';
+  margin-bottom: 0.5rem;
+}
+
+footer {
+  width: 100%;
+
+}
+
+address {
+  width: 90%;
+  margin: 3rem auto;
+  display: inline-block;
+}
+
+
+
+
+
+@media all and (min-width:690px) {
+  header {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+  }
+
+  .img_box {
+    width: 40px;
+  }
+
+  header > ul {
+    width: 40px;
+  }
+
+  h1 {
+    line-height: 1;
+  }
+
+  article {
+    width: calc((100% - 60px) / 2);
+  }
+}
