@@ -63,15 +63,15 @@ section {
   height: 100%;
   position: absolute;
   left: 0;
-  top: 0;
+  top: 100%;
   font: 0.8em/1.8 'Noto Sans KR';
   border-radius: 12px;
   background: rgba(0, 0, 0, 0.6);
-  display: none;
+  transition: all 0.2s;
 }
 
 .trainee li:hover .portfolio {
-  display: block;
+  top: 0;
 }
 
 .portfolio div {
