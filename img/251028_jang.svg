@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 142 142">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_무제_그라디언트_24);
+      }
+
+      .cls-2 {
+        fill: url(#_무제_그라디언트);
+      }
+
+      .cls-3 {
+        fill: url(#_무제_그라디언트_12);
+      }
+
+      .cls-4 {
+        fill: url(#_무제_그라디언트_15);
+      }
+
+      .cls-5 {
+        fill: url(#_무제_그라디언트_23);
+      }
+
+      .cls-6 {
+        fill: url(#_무제_그라디언트_5);
+      }
+
+      .cls-7 {
+        fill: url(#_무제_그라디언트_25);
+      }
+
+      .cls-8 {
+        fill: url(#_무제_그라디언트_13);
+      }
+
+      .cls-9 {
+        fill: url(#_무제_그라디언트_10);
+      }
+
+      .cls-10 {
+        fill: url(#_무제_그라디언트_21);
+      }
+
+      .cls-11 {
+        fill: url(#_무제_그라디언트_8);
+      }
+
+      .cls-12 {
+        fill: url(#_무제_그라디언트_14);
+      }
+
+      .cls-13 {
+        fill: url(#_무제_그라디언트_2);
+      }
+
+      .cls-14 {
+        fill: url(#_무제_그라디언트_17);
+      }
+
+      .cls-15 {
+        fill: url(#_무제_그라디언트_18);
+      }
+
+      .cls-16 {
+        fill: url(#_무제_그라디언트_4);
+      }
+
+      .cls-17 {
+        fill: url(#_무제_그라디언트_19);
+      }
+
+      .cls-18 {
+        fill: url(#_무제_그라디언트_11);
+      }
+
+      .cls-19 {
+        fill: url(#_무제_그라디언트_22);
+      }
+
+      .cls-20 {
+        fill: url(#_무제_그라디언트_6);
+      }
+
+      .cls-21 {
+        fill: url(#_무제_그라디언트_20);
+      }
+
+      .cls-22 {
+        fill: url(#_무제_그라디언트_9);
+      }
+
+      .cls-23 {
+        fill: url(#_무제_그라디언트_3);
+      }
+
+      .cls-24 {
+        fill: url(#_무제_그라디언트_16);
+      }
+
+      .cls-25 {
+        fill: url(#_무제_그라디언트_7);
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트" data-name="무제 그라디언트" x1="18.2" y1="129" x2="18.2" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_2" data-name="무제 그라디언트 2" x1="31.4" y1="129" x2="31.4" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_3" data-name="무제 그라디언트 3" x1="44.6" y1="129" x2="44.6" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_4" data-name="무제 그라디언트 4" x1="71" y1="129" x2="71" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_5" data-name="무제 그라디언트 5" x1="31.4" y1="129" x2="31.4" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_6" data-name="무제 그라디언트 6" x1="44.6" y1="129" x2="44.6" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_7" data-name="무제 그라디언트 7" x1="57.8" y1="129" x2="57.8" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_8" data-name="무제 그라디언트 8" x1="71" y1="129" x2="71" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_9" data-name="무제 그라디언트 9" x1="44.6" y1="129" x2="44.6" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_10" data-name="무제 그라디언트 10" x1="57.8" y1="129" x2="57.8" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_11" data-name="무제 그라디언트 11" x1="71" y1="129" x2="71" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_12" data-name="무제 그라디언트 12" x1="84.2" y1="129" x2="84.2" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_13" data-name="무제 그라디언트 13" x1="97.4" y1="129" x2="97.4" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_14" data-name="무제 그라디언트 14" x1="57.8" y1="129" x2="57.8" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_15" data-name="무제 그라디언트 15" x1="71" y1="129" x2="71" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_16" data-name="무제 그라디언트 16" x1="84.2" y1="129" x2="84.2" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_17" data-name="무제 그라디언트 17" x1="97.4" y1="129" x2="97.4" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_18" data-name="무제 그라디언트 18" x1="110.6" y1="129" x2="110.6" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_19" data-name="무제 그라디언트 19" x1="71" y1="129" x2="71" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_20" data-name="무제 그라디언트 20" x1="84.2" y1="129" x2="84.2" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_21" data-name="무제 그라디언트 21" x1="97.4" y1="129" x2="97.4" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_22" data-name="무제 그라디언트 22" x1="110.6" y1="129" x2="110.6" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_23" data-name="무제 그라디언트 23" x1="123.8" y1="129" x2="123.8" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_24" data-name="무제 그라디언트 24" x1="57.8" y1="129" x2="57.8" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_25" data-name="무제 그라디언트 25" x1="84.2" y1="129" x2="84.2" y2="17" gradientTransform="translate(0 144) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-2" d="M20.46,70.87c1.25,1.25,1.25,3.28,0,4.53-1.25,1.25-3.28,1.25-4.53,0-1.25-1.25-1.25-3.28,0-4.53,1.25-1.25,3.28-1.25,4.53,0Z"/>
+  <path class="cls-13" d="M34.04,57.29c1.46,1.46,1.46,3.82,0,5.28-1.46,1.46-3.82,1.46-5.28,0-1.46-1.46-1.46-3.82,0-5.28,1.46-1.46,3.82-1.46,5.28,0Z"/>
+  <path class="cls-23" d="M47.62,43.72c1.67,1.67,1.67,4.37,0,6.04-1.67,1.67-4.37,1.67-6.04,0-1.67-1.67-1.67-4.37,0-6.04,1.67-1.67,4.37-1.67,6.04,0Z"/>
+  <path class="cls-16" d="M74.77,16.56c2.08,2.08,2.08,5.46,0,7.54-2.08,2.08-5.46,2.08-7.54,0-2.08-2.08-2.08-5.46,0-7.54,2.08-2.08,5.46-2.08,7.54,0Z"/>
+  <path class="cls-6" d="M33.29,84.45c1.04,1.04,1.04,2.73,0,3.77-1.04,1.04-2.73,1.04-3.77,0-1.04-1.04-1.04-2.73,0-3.77,1.04-1.04,2.73-1.04,3.77,0Z"/>
+  <path class="cls-20" d="M46.86,70.87c1.25,1.25,1.25,3.28,0,4.53s-3.28,1.25-4.53,0-1.25-3.28,0-4.53,3.28-1.25,4.53,0Z"/>
+  <path class="cls-25" d="M60.44,57.29c1.46,1.46,1.46,3.82,0,5.28-1.46,1.46-3.82,1.46-5.28,0-1.46-1.46-1.46-3.82,0-5.28,1.46-1.46,3.82-1.46,5.28,0Z"/>
+  <path class="cls-11" d="M74.02,43.72c1.67,1.67,1.67,4.37,0,6.04-1.67,1.67-4.37,1.67-6.04,0s-1.67-4.37,0-6.04,4.37-1.67,6.04,0Z"/>
+  <path class="cls-22" d="M46.11,98.02c.83.83.83,2.18,0,3.02-.83.83-2.18.83-3.02,0-.83-.83-.83-2.18,0-3.02.83-.83,2.18-.83,3.02,0Z"/>
+  <path class="cls-9" d="M59.69,84.45c1.04,1.04,1.04,2.73,0,3.77-1.04,1.04-2.73,1.04-3.77,0-1.04-1.04-1.04-2.73,0-3.77s2.73-1.04,3.77,0Z"/>
+  <path class="cls-18" d="M73.26,70.87c1.25,1.25,1.25,3.28,0,4.53s-3.28,1.25-4.53,0-1.25-3.28,0-4.53,3.28-1.25,4.53,0Z"/>
+  <path class="cls-3" d="M86.84,57.29c1.46,1.46,1.46,3.82,0,5.28-1.46,1.46-3.82,1.46-5.28,0s-1.46-3.82,0-5.28c1.46-1.46,3.82-1.46,5.28,0Z"/>
+  <path class="cls-8" d="M100.42,43.72c1.67,1.67,1.67,4.37,0,6.04-1.67,1.67-4.37,1.67-6.04,0-1.67-1.67-1.67-4.37,0-6.04,1.67-1.67,4.37-1.67,6.04,0Z"/>
+  <path class="cls-12" d="M58.93,111.6c.62.62.62,1.64,0,2.26-.63.62-1.64.62-2.26,0-.63-.63-.63-1.64,0-2.26.62-.62,1.64-.62,2.26,0Z"/>
+  <path class="cls-4" d="M72.51,98.02c.83.83.83,2.18,0,3.02-.83.83-2.18.83-3.02,0-.83-.83-.83-2.18,0-3.02.83-.83,2.18-.83,3.02,0Z"/>
+  <path class="cls-24" d="M86.09,84.45c1.04,1.04,1.04,2.73,0,3.77-1.04,1.04-2.73,1.04-3.77,0-1.04-1.04-1.04-2.73,0-3.77,1.04-1.04,2.73-1.04,3.77,0Z"/>
+  <path class="cls-14" d="M99.66,70.87c1.25,1.25,1.25,3.28,0,4.53-1.25,1.25-3.28,1.25-4.53,0s-1.25-3.28,0-4.53,3.28-1.25,4.53,0Z"/>
+  <path class="cls-15" d="M113.24,57.29c1.46,1.46,1.46,3.82,0,5.28s-3.82,1.46-5.28,0-1.46-3.82,0-5.28c1.46-1.46,3.82-1.46,5.28,0Z"/>
+  <path class="cls-17" d="M71.75,125.18c.42.42.42,1.09,0,1.51-.42.42-1.09.42-1.51,0-.42-.42-.42-1.09,0-1.51.42-.42,1.09-.42,1.51,0Z"/>
+  <path class="cls-21" d="M85.33,111.6c.62.62.62,1.64,0,2.26-.63.62-1.64.62-2.26,0-.62-.63-.62-1.64,0-2.26.62-.62,1.64-.62,2.26,0Z"/>
+  <path class="cls-10" d="M98.91,98.02c.83.83.83,2.18,0,3.02-.83.83-2.18.83-3.02,0-.83-.83-.83-2.18,0-3.02.83-.83,2.18-.83,3.02,0Z"/>
+  <path class="cls-19" d="M112.49,84.45c1.04,1.04,1.04,2.73,0,3.77-1.04,1.04-2.73,1.04-3.77,0-1.04-1.04-1.04-2.73,0-3.77,1.04-1.04,2.73-1.04,3.77,0Z"/>
+  <path class="cls-5" d="M126.06,70.87c1.25,1.25,1.25,3.28,0,4.53-1.25,1.25-3.28,1.25-4.53,0-1.25-1.25-1.25-3.28,0-4.53,1.25-1.25,3.28-1.25,4.53,0Z"/>
+  <path class="cls-1" d="M61.2,30.14c1.88,1.88,1.88,4.92,0,6.79s-4.92,1.88-6.79,0c-1.88-1.88-1.88-4.92,0-6.79,1.88-1.88,4.92-1.88,6.79,0Z"/>
+  <path class="cls-7" d="M87.59,30.14c1.88,1.88,1.88,4.92,0,6.79-1.88,1.88-4.92,1.88-6.79,0-1.88-1.88-1.88-4.92,0-6.79,1.88-1.88,4.92-1.88,6.79,0Z"/>
+</svg>
